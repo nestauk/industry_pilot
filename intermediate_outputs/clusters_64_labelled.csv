@@ -1,0 +1,544 @@
+,Unnamed: 0,clust,descr,sic_4,label,flag
+0,244,9,Construction of residential and non-residential buildings,4120,construction,False
+1,245,9,Construction of roads and motorways,4211,construction,False
+2,246,9,Construction of railways and underground railways,4212,construction,False
+3,261,9,Painting and glazing,4334,construction,False
+4,263,9,Roofing activities,4391,construction,False
+5,262,9,Other building completion and finishing,4339,construction,False
+6,260,9,Floor and wall covering,4333,construction,False
+7,259,9,Joinery installation,4332,construction,False
+8,258,9,Plastering,4331,construction,False
+9,257,9,Other construction installation,4329,construction,False
+10,256,9,"Plumbing, heat and air-conditioning installation",4322,construction,False
+11,255,9,Electrical installation,4321,construction,False
+12,254,9,Test drilling and boring,4313,construction,False
+13,253,9,Site preparation,4312,construction,False
+14,252,9,Demolition,4311,construction,False
+15,251,9,Construction of other civil engineering projects n.e.c.,4299,construction,False
+16,250,9,Construction of water projects,4291,construction,False
+17,264,9,Other specialised construction activities n.e.c.,4399,construction,False
+18,249,9,Construction of utility projects for electricity and telecommunications,4222,construction,False
+19,247,9,Construction of bridges and tunnels,4213,construction,False
+20,160,45,Manufacture of electronic components,2611,manufacture_advanced,False
+21,161,45,Manufacture of loaded electronic boards,2612,manufacture_advanced,False
+22,163,45,Manufacture of communication equipment,2630,manufacture_advanced,False
+23,167,45,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",2660,manufacture_advanced,False
+24,165,45,"Manufacture of instruments and appliances for measuring, testing and navigation",2651,manufacture_advanced,False
+25,164,45,Manufacture of consumer electronics,2640,manufacture_advanced,False
+26,162,45,Manufacture of computers and peripheral equipment,2620,manufacture_advanced,False
+27,43,41,Manufacture of oils and fats,1041,manufacture_agrochemical,False
+28,99,41,Manufacture of fertilisers and nitrogen compounds,2015,manufacture_agrochemical,False
+29,106,41,Manufacture of essential oils,2053,manufacture_agrochemical,False
+30,101,41,Manufacture of pesticides and other agrochemical products,2020,manufacture_agrochemical,False
+31,199,27,Manufacture of other parts and accessories for motor vehicles,2932,manufacture_automotive,False
+32,196,27,Manufacture of motor vehicles,2910,manufacture_automotive,False
+33,197,27,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,2920,manufacture_automotive,False
+34,198,27,Manufacture of electrical and electronic equipment for motor vehicles,2931,manufacture_automotive,False
+35,103,16,"Manufacture of soap and detergents, cleaning and polishing preparations",2041,manufacture_chemical_pharma,False
+36,98,16,Manufacture of other organic basic chemicals,2014,manufacture_chemical_pharma,False
+37,97,16,Manufacture of other inorganic basic chemicals,2013,manufacture_chemical_pharma,False
+38,105,16,Manufacture of glues,2052,manufacture_chemical_pharma,False
+39,107,16,Manufacture of other chemical products n.e.c.,2059,manufacture_chemical_pharma,False
+40,108,16,Manufacture of man-made fibres,2060,manufacture_chemical_pharma,False
+41,95,16,Manufacture of refined petroleum products,1920,manufacture_chemical_pharma,False
+42,109,16,Manufacture of basic pharmaceutical products,2110,manufacture_chemical_pharma,False
+43,314,16,Wholesale of chemical products,4675,manufacture_chemical_pharma,False
+44,102,16,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",2030,manufacture_chemical_pharma,False
+45,104,16,Manufacture of perfumes and toilet preparations,2042,manufacture_chemical_pharma,False
+46,130,16,Manufacture of other non-metallic mineral products n.e.c.,2399,manufacture_chemical_pharma,False
+47,273,16,Agents involved in the sale of timber and building materials,4613,manufacture_chemical_pharma,False
+48,110,16,Manufacture of pharmaceutical preparations,2120,manufacture_chemical_pharma,False
+49,118,0,"Manufacture and processing of other glass, including technical glassware",2319,manufacture_construction,False
+50,122,0,Manufacture of ceramic household and ornamental articles,2341,manufacture_construction,False
+51,121,0,"Manufacture of bricks, tiles and construction products, in baked clay",2332,manufacture_construction,False
+52,120,0,Manufacture of ceramic tiles and flags,2331,manufacture_construction,False
+53,124,0,Manufacture of other ceramic products,2349,manufacture_construction,False
+54,295,0,Wholesale of china and glassware and cleaning materials,4644,manufacture_construction,False
+55,96,0,Manufacture of dyes and pigments,2012,manufacture_construction,False
+56,117,0,Shaping and processing of flat glass,2312,manufacture_construction,False
+57,169,46,"Manufacture of electric motors, generators and transformers",2711,manufacture_electrical,False
+58,170,46,Manufacture of electricity distribution and control apparatus,2712,manufacture_electrical,False
+59,171,46,Manufacture of other electronic and electric wires and cables,2732,manufacture_electrical,False
+60,172,46,Manufacture of electric lighting equipment,2740,manufacture_electrical,False
+61,173,46,Manufacture of electric domestic appliances,2751,manufacture_electrical,False
+62,174,46,Manufacture of non-electric domestic appliances,2752,manufacture_electrical,False
+63,175,46,Manufacture of other electrical equipment,2790,manufacture_electrical,False
+64,44,26,Operation of dairies and cheese making,1051,manufacture_food,False
+65,42,26,Other processing and preserving of fruit and vegetables,1039,manufacture_food,False
+66,41,26,Processing and preserving of potatoes,1031,manufacture_food,False
+67,38,26,Processing and preserving of poultry meat,1012,manufacture_food,False
+68,19,26,Post-harvest crop activities,163,manufacture_food,False
+69,37,26,Processing and preserving of meat,1011,manufacture_food,False
+70,46,26,Manufacture of grain mill products,1061,manufacture_food,False
+71,45,26,Manufacture of ice cream,1052,manufacture_food,False
+72,56,26,Manufacture of prepared pet foods,1092,manufacture_food,False
+73,55,26,Manufacture of prepared feeds for farm animals,1091,manufacture_food,False
+74,39,26,Production of meat and poultry meat products,1013,manufacture_food,False
+75,60,43,Manufacture of soft drinks; production of mineral waters and other bottled waters,1107,manufacture_food_2,True
+76,48,43,Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes,1072,manufacture_food_2,True
+77,49,43,"Manufacture of cocoa, chocolate and sugar confectionery",1082,manufacture_food_2,True
+78,50,43,Processing of tea and coffee,1083,manufacture_food_2,True
+79,51,43,Manufacture of condiments and seasonings,1084,manufacture_food_2,True
+80,52,43,Manufacture of prepared meals and dishes,1085,manufacture_food_2,True
+81,53,43,Manufacture of homogenised food preparations and dietetic food,1086,manufacture_food_2,True
+82,54,43,Manufacture of other food products n.e.c.,1089,manufacture_food_2,True
+83,534,38,Repair of footwear and leather goods,9523,manufacture_footwear_leather,False
+84,80,38,Manufacture of footwear,1520,manufacture_footwear_leather,False
+85,78,38,Tanning and dressing of leather; dressing and dyeing of fur,1511,manufacture_footwear_leather,False
+86,79,38,"Manufacture of luggage, handbags and the like, saddlery and harness",1512,manufacture_footwear_leather,False
+87,82,4,Manufacture of veneer sheets and wood-based panels,1621,manufacture_furniture,False
+88,81,4,Sawmilling and planing of wood,1610,manufacture_furniture,False
+89,83,4,Manufacture of other builders' carpentry and joinery,1623,manufacture_furniture,False
+90,207,4,Manufacture of office and shop furniture,3101,manufacture_furniture,False
+91,208,4,Manufacture of kitchen furniture,3102,manufacture_furniture,False
+92,209,4,Manufacture of mattresses,3103,manufacture_furniture,False
+93,85,4,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting",1629,manufacture_furniture,False
+94,210,4,Manufacture of other furniture,3109,manufacture_furniture,False
+95,535,4,Repair of furniture and home furnishings,9524,manufacture_furniture,False
+96,84,4,Manufacture of wooden containers,1624,manufacture_furniture,False
+97,133,61,Cold forming or folding,2433,manufacture_light_misc,True
+98,205,61,Manufacture of bicycles and invalid carriages,3092,manufacture_light_misc,True
+99,155,61,Manufacture of steel drums and similar containers,2591,manufacture_light_misc,True
+100,143,18,Manufacture of metal structures and parts of structures,2511,manufacture_machinery,False
+101,159,18,Manufacture of other fabricated metal products n.e.c.,2599,manufacture_machinery,False
+102,182,18,Manufacture of lifting and handling equipment,2822,manufacture_machinery,False
+103,177,18,Manufacture of fluid power equipment,2812,manufacture_machinery,False
+104,144,18,Manufacture of doors and windows of metal,2512,manufacture_machinery,False
+105,188,18,Manufacture of other machine tools,2849,manufacture_machinery,False
+106,184,18,Manufacture of non-domestic cooling and ventilation equipment,2825,manufacture_machinery,False
+107,219,18,Repair of fabricated metal products,3311,manufacture_machinery,False
+108,220,18,Repair of machinery,3312,manufacture_machinery,False
+109,150,18,Treatment and coating of metals,2561,manufacture_machinery,False
+110,153,18,Manufacture of locks and hinges,2572,manufacture_machinery,False
+111,186,18,Manufacture of agricultural and forestry machinery,2830,manufacture_machinery,False
+112,151,18,Machining,2562,manufacture_machinery,False
+113,190,18,"Manufacture of machinery for mining, quarrying and construction",2892,manufacture_machinery,False
+114,146,18,"Manufacture of other tanks, reservoirs and containers of metal",2529,manufacture_machinery,False
+115,185,18,Manufacture of other general-purpose machinery n.e.c.,2829,manufacture_machinery,False
+116,129,2,Production of abrasive products,2391,manufacture_metallurgy,False
+117,135,2,Precious metals production,2441,manufacture_metallurgy,False
+118,139,2,Casting of iron,2451,manufacture_metallurgy,False
+119,142,2,Casting of other non-ferrous metals,2454,manufacture_metallurgy,False
+120,141,2,Casting of light metals,2453,manufacture_metallurgy,False
+121,148,2,Manufacture of weapons and ammunition,2540,manufacture_metallurgy,False
+122,138,2,Other non-ferrous metal production,2445,manufacture_metallurgy,False
+123,233,2,Trade of gas through mains,3523,manufacture_metallurgy,False
+124,140,2,Casting of steel,2452,manufacture_metallurgy,False
+125,137,2,Copper production,2444,manufacture_metallurgy,False
+126,123,39,Manufacture of other technical ceramic products,2344,manufacture_metallurgy_misc,True
+127,189,39,Manufacture of machinery for metallurgy,2891,manufacture_metallurgy_misc,True
+128,147,39,"Manufacture of steam generators, except central heating hot water boilers",2530,manufacture_metallurgy_misc,True
+129,152,39,Manufacture of cutlery,2571,manufacture_metallurgy_misc,True
+130,149,29,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",2550,manufacture_metallurgy_tools,True
+131,187,29,Manufacture of metal forming machinery,2841,manufacture_metallurgy_tools,True
+132,131,29,Manufacture of basic iron and steel and of ferro-alloys,2410,manufacture_metallurgy_tools,True
+133,132,29,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",2420,manufacture_metallurgy_tools,True
+134,158,29,Manufacture of fasteners and screw machine products,2594,manufacture_metallurgy_tools,True
+135,157,29,"Manufacture of wire products, chain and springs",2593,manufacture_metallurgy_tools,True
+136,154,29,Manufacture of tools,2573,manufacture_metallurgy_tools,True
+137,145,29,Manufacture of central heating radiators and boilers,2521,manufacture_metallurgy_tools,True
+138,136,29,Aluminium production,2442,manufacture_metallurgy_tools,True
+139,168,21,Manufacture of optical instruments and photographic equipment,2670,manufacture_optics,True
+140,166,21,Manufacture of watches and clocks,2652,manufacture_optics,True
+141,536,21,"Repair of watches, clocks and jewellery",9525,manufacture_optics,True
+142,221,21,Repair of electronic and optical equipment,3313,manufacture_optics,True
+143,204,21,Manufacture of motorcycles,3091,manufacture_optics,True
+144,86,3,Manufacture of paper and paperboard,1712,manufacture_paper,False
+145,87,3,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,1721,manufacture_paper,False
+146,88,3,Manufacture of household and sanitary goods and of toilet requisites,1722,manufacture_paper,False
+147,89,3,Manufacture of paper stationery,1723,manufacture_paper,False
+148,93,3,Binding and related services,1814,manufacture_paper,False
+149,91,3,Other printing,1812,manufacture_paper,False
+150,92,3,Pre-press and pre-media services,1813,manufacture_paper,False
+151,384,3,Publishing of directories and mailing lists,5812,manufacture_paper,False
+152,90,3,Manufacture of other articles of paper and paperboard n.e.c.,1729,manufacture_paper,False
+153,116,57,Manufacture of other plastic products,2229,manufacture_plastic,False
+154,115,57,Manufacture of builders¥Ë_ ware of plastic,2223,manufacture_plastic,False
+155,114,57,Manufacture of plastic packing goods,2222,manufacture_plastic,False
+156,113,57,"Manufacture of plastic plates, sheets, tubes and profiles",2221,manufacture_plastic,False
+157,100,57,Manufacture of plastics in primary forms,2016,manufacture_plastic,False
+158,156,22,Manufacture of light metal packaging,2592,manufacture_rubber,False
+159,194,22,Manufacture of plastics and rubber machinery,2896,manufacture_rubber,False
+160,191,22,"Manufacture of machinery for food, beverage and tobacco processing",2893,manufacture_rubber,False
+161,111,22,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,2211,manufacture_rubber,False
+162,180,22,"Manufacture of bearings, gears, gearing and driving elements",2815,manufacture_rubber,False
+163,179,22,Manufacture of other taps and valves,2814,manufacture_rubber,False
+164,178,22,Manufacture of other pumps and compressors,2813,manufacture_rubber,False
+165,176,22,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",2811,manufacture_rubber,False
+166,112,22,Manufacture of other rubber products,2219,manufacture_rubber,False
+167,181,22,"Manufacture of ovens, furnaces and furnace burners",2821,manufacture_rubber,False
+168,223,62,Repair and maintenance of ships and boats,3315,manufacture_shipbuilding,False
+169,200,62,Building of ships and floating structures,3011,manufacture_shipbuilding,False
+170,201,62,Building of pleasure and sporting boats,3012,manufacture_shipbuilding,False
+171,66,28,Manufacture of carpets and rugs,1393,manufacture_textiles,False
+172,69,28,Manufacture of other technical and industrial textiles,1396,manufacture_textiles,False
+173,67,28,"Manufacture of cordage, rope, twine and netting",1394,manufacture_textiles,False
+174,70,28,Manufacture of other textiles n.e.c.,1399,manufacture_textiles,False
+175,68,28,"Manufacture of non-wovens and articles made from non-wovens, except apparel",1395,manufacture_textiles,False
+176,71,28,Manufacture of leather clothes,1411,manufacture_textiles,False
+177,77,28,Manufacture of other knitted and crocheted apparel,1439,manufacture_textiles,False
+178,76,28,Manufacture of knitted and crocheted hosiery,1431,manufacture_textiles,False
+179,75,28,Manufacture of other wearing apparel and accessories,1419,manufacture_textiles,False
+180,74,28,Manufacture of underwear,1414,manufacture_textiles,False
+181,63,28,Finishing of textiles,1330,manufacture_textiles,False
+182,61,28,Preparation and spinning of textile fibres,1310,manufacture_textiles,False
+183,62,28,Weaving of textiles,1320,manufacture_textiles,False
+184,72,28,Manufacture of workwear,1412,manufacture_textiles,False
+185,73,28,Manufacture of other outerwear,1413,manufacture_textiles,False
+186,64,28,Manufacture of knitted and crocheted fabrics,1391,manufacture_textiles,False
+187,65,28,"Manufacture of made-up textile articles, except apparel",1392,manufacture_textiles,False
+188,224,54,Repair and maintenance of aircraft and spacecraft,3316,manufacturing_aerospace,False
+189,203,54,Manufacture of air and spacecraft and related machinery,3030,manufacturing_aerospace,False
+190,195,10,Manufacture of other special-purpose machinery n.e.c.,2899,manufacturing_misc,True
+191,119,10,Manufacture of refractory products,2320,manufacturing_misc,True
+192,213,10,Manufacture of musical instruments,3220,manufacturing_misc,True
+193,183,10,Manufacture of office machinery and equipment (except computers and peripheral equipment),2823,manufacturing_misc,True
+194,211,10,Manufacture of jewellery and related articles,3212,manufacturing_misc,True
+195,218,10,Other manufacturing n.e.c.,3299,manufacturing_misc,True
+196,134,10,Cold drawing of wire,2434,manufacturing_misc,True
+197,217,10,Manufacture of brooms and brushes,3291,manufacturing_misc,True
+198,193,10,Manufacture of machinery for paper and paperboard production,2895,manufacturing_misc,True
+199,216,10,Manufacture of medical and dental instruments and supplies,3250,manufacturing_misc,True
+200,215,10,Manufacture of games and toys,3240,manufacturing_misc,True
+201,192,10,"Manufacture of machinery for textile, apparel and leather production",2894,manufacturing_misc,True
+202,214,10,Manufacture of sports goods,3230,manufacturing_misc,True
+203,212,10,Manufacture of imitation jewellery and related articles,3213,manufacturing_misc,True
+204,126,59,Manufacture of ready-mixed concrete,2363,primary_mining,False
+205,33,59,Extraction of peat,892,primary_mining,False
+206,125,59,Manufacture of concrete products for construction purposes,2361,primary_mining,False
+207,34,59,Other mining and quarrying n.e.c.,899,primary_mining,False
+208,31,59,"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",811,primary_mining,False
+209,32,59,Operation of gravel and sand pits; mining of clays and kaolin,812,primary_mining,False
+210,29,58,Extraction of crude petroleum,610,primary_mining,False
+211,35,58,Support activities for petroleum and natural gas extraction,910,primary_mining,False
+212,30,58,Extraction of natural gas,620,primary_mining,False
+213,454,24,Renting and leasing of agricultural machinery and equipment,7731,primary_farming,False
+214,0,24,"Growing of cereals (except rice), leguminous crops and oil seeds",111,primary_farming,False
+215,7,24,Growing of other perennial crops,129,primary_farming,False
+216,6,24,Growing of other tree and bush fruits and nuts,125,primary_farming,False
+217,5,24,Growing of pome fruits and stone fruits,124,primary_farming,False
+218,8,24,Plant propagation,130,primary_farming,False
+219,11,24,Raising of horses and other equines,143,primary_farming,False
+220,13,24,Raising of swine/pigs,146,primary_farming,False
+221,18,24,Support activities for animal production,162,primary_farming,False
+222,20,24,"Hunting, trapping and related service activities",170,primary_farming,False
+223,4,24,Growing of grapes,121,primary_farming,False
+224,1,24,"Growing of vegetables and melons, roots and tubers",113,primary_farming,False
+225,2,24,Growing of fibre crops,116,primary_farming,False
+226,3,24,Growing of other non-perennial crops,119,primary_farming,False
+227,40,20,"Processing and preserving of fish, crustaceans and molluscs",1020,primary_fishing,False
+228,290,20,"Wholesale of other food, including fish, crustaceans and molluscs",4638,primary_fishing,False
+229,24,20,Marine fishing,311,primary_fishing,False
+230,26,20,Marine aquaculture,321,primary_fishing,False
+231,25,20,Freshwater fishing,312,primary_fishing,False
+232,322,20,"Retail sale of fish, crustaceans and molluscs in specialised stores",4723,primary_fishing,False
+233,27,20,Freshwater aquaculture,322,primary_fishing,False
+234,21,37,Silviculture and other forestry activities,210,primary_forestry,False
+235,22,37,Logging,220,primary_forestry,False
+236,23,37,Support services to forestry,240,primary_forestry,False
+237,9,34,Raising of dairy cattle,141,primary_livestock,False
+238,10,34,Raising of other cattle and buffaloes,142,primary_livestock,False
+239,14,34,Raising of poultry,147,primary_livestock,False
+240,16,34,Mixed farming,150,primary_livestock,False
+241,12,34,Raising of sheep and goats,145,primary_livestock,False
+242,17,34,Support activities for crop production,161,primary_livestock,False
+243,15,34,Raising of other animals,149,primary_livestock,False
+244,521,13,Other sports activities,9319,services_agriculture_rural,False
+245,280,13,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds",4621,services_agriculture_rural,False
+246,448,13,Veterinary activities,7500,services_agriculture_rural,False
+247,473,13,Landscape service activities,8130,services_agriculture_rural,False
+248,310,13,"Wholesale of solid, liquid and gaseous fuels and related products",4671,services_agriculture_rural,False
+249,518,13,Operation of sports facilities,9311,services_agriculture_rural,False
+250,271,13,"Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods",4611,services_agriculture_rural,False
+251,303,13,"Wholesale of agricultural machinery, equipment and supplies",4661,services_agriculture_rural,False
+252,282,13,Wholesale of live animals,4623,services_agriculture_rural,False
+253,519,13,Activities of sport clubs,9312,services_agriculture_rural,False
+254,455,30,Renting and leasing of construction and civil engineering machinery and equipment,7732,services_automotive,False
+255,270,30,"Sale, maintenance and repair of motorcycles and related parts and accessories",4540,services_automotive,False
+256,269,30,Retail trade of motor vehicle parts and accessories,4532,services_automotive,False
+257,268,30,Wholesale trade of motor vehicle parts and accessories,4531,services_automotive,False
+258,267,30,Maintenance and repair of motor vehicles,4520,services_automotive,False
+259,266,30,Sale of other motor vehicles,4519,services_automotive,False
+260,265,30,Sale of cars and light motor vehicles,4511,services_automotive,False
+261,449,30,Renting and leasing of cars and light motor vehicles,7711,services_automotive,False
+262,458,30,"Renting and leasing of other machinery, equipment and tangible goods n.e.c.",7739,services_automotive,False
+263,450,30,Renting and leasing of trucks,7712,services_automotive,False
+264,475,23,"Photocopying, document preparation and other specialised office support activities",8219,services_business_support,True
+265,476,23,Activities of call centres,8220,services_business_support,True
+266,477,23,Convention and trade show organizers,8230,services_business_support,True
+267,478,23,Activities of collection agencies and credit bureaus,8291,services_business_support,True
+268,480,23,Other business support service activities n.e.c.,8299,services_business_support,True
+269,474,23,Combined office administrative service activities,8211,services_business_support,True
+270,470,48,General cleaning of buildings,8121,services_cleaning_facilities,False
+271,472,48,Other cleaning activities,8129,services_cleaning_facilities,False
+272,471,48,Other building and industrial cleaning activities,8122,services_cleaning_facilities,False
+273,469,48,Combined facilities support activities,8110,services_cleaning_facilities,False
+274,401,47,Computer programming activities,6201,services_computing,False
+275,403,47,Computer facilities management activities,6203,services_computing,False
+276,404,47,Other information technology and computer service activities,6209,services_computing,False
+277,402,47,Computer consultancy activities,6202,services_computing,False
+278,349,7,Retail sale of second-hand goods in stores,4779,services_consumer_retail,False
+279,340,7,Retail sale of games and toys in specialised stores,4765,services_consumer_retail,False
+280,335,7,"Retail sale of furniture, lighting equipment and other household articles in specialised stores",4759,services_consumer_retail,False
+281,336,7,Retail sale of books in specialised stores,4761,services_consumer_retail,False
+282,320,7,Retail sale of fruit and vegetables in specialised stores,4721,services_consumer_retail,False
+283,337,7,Retail sale of newspapers and stationery in specialised stores,4762,services_consumer_retail,False
+284,348,7,Other retail sale of new goods in specialised stores,4778,services_consumer_retail,False
+285,347,7,Retail sale of watches and jewellery in specialised stores,4777,services_consumer_retail,False
+286,344,7,Retail sale of medical and orthopaedic goods in specialised stores,4774,services_consumer_retail,False
+287,342,7,Retail sale of footwear and leather goods in specialised stores,4772,services_consumer_retail,False
+288,339,7,Retail sale of sporting equipment in specialised stores,4764,services_consumer_retail,False
+289,285,7,"Wholesale of dairy products, eggs and edible oils and fats",4633,services_consumer_retail,False
+290,276,7,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",4616,services_consumer_retail,False
+291,326,7,Other retail sale of food in specialised stores,4729,services_consumer_retail,False
+292,341,7,Retail sale of clothing in specialised stores,4771,services_consumer_retail,False
+293,350,7,"Retail sale via stalls and markets of food, beverages and tobacco products",4781,services_consumer_retail,False
+294,352,7,Retail sale via stalls and markets of other goods,4789,services_consumer_retail,False
+295,354,7,"Other retail sale not in stores, stalls or markets",4799,services_consumer_retail,False
+296,379,7,Restaurants and mobile food service activities,5610,services_consumer_retail,False
+297,380,7,Event catering activities,5621,services_consumer_retail,False
+298,381,7,Other food service activities,5629,services_consumer_retail,False
+299,351,7,"Retail sale via stalls and markets of textiles, clothing and footwear",4782,services_consumer_retail,False
+300,447,5,"Other professional, scientific and technical activities n.e.c.",7490,services_creative,False
+301,408,5,Other information service activities n.e.c.,6399,services_creative,False
+302,405,5,"Data processing, hosting and related activities",6311,services_creative,False
+303,511,5,Artistic creation,9003,services_creative,False
+304,510,5,Support activities to performing arts,9002,services_creative,False
+305,407,5,News agency activities,6391,services_creative,False
+306,435,5,Architectural activities,7111,services_creative,False
+307,444,5,Specialised design activities,7410,services_creative,False
+308,445,5,Photographic activities,7420,services_creative,False
+309,446,5,Translation and interpretation activities,7430,services_creative,False
+310,509,5,Performing arts,9001,services_creative,False
+311,406,5,Web portals,6312,services_creative,False
+312,396,56,Television programming and broadcasting activities,6020,services_creative_content,False
+313,394,56,Sound recording and music publishing activities,5920,services_creative_content,False
+314,392,56,"Motion picture, video and television programme distribution activities",5913,services_creative_content,False
+315,390,56,"Motion picture, video and television programme production activities",5911,services_creative_content,False
+316,391,56,"Motion picture, video and television programme post-production activities",5912,services_creative_content,False
+317,395,56,Radio broadcasting,6010,services_creative_content,False
+318,515,51,Operation of historical sites and buildings and similar visitor attractions,9103,services_cultural,False
+319,514,51,Museum activities,9102,services_cultural,False
+320,513,51,Library and archive activities,9101,services_cultural,False
+321,516,51,Botanical and zoological gardens and nature reserve activities,9104,services_cultural,False
+322,487,25,Primary education,8520,services_education,False
+323,496,25,Educational support activities,8560,services_education,False
+324,494,25,Driving school activities,8553,services_education,False
+325,493,25,Cultural education,8552,services_education,False
+326,495,25,Other education n.e.c.,8559,services_education,False
+327,492,25,Sports and recreation education,8551,services_education,False
+328,488,25,General secondary education,8531,services_education,False
+329,489,25,Technical and vocational secondary education,8532,services_education,False
+330,486,25,Pre-primary education,8510,services_education,False
+331,491,25,Tertiary education,8542,services_education,False
+332,490,25,Post-secondary non-tertiary education,8541,services_education,False
+333,232,53,Distribution of gaseous fuels through mains,3522,services_energy,False
+334,230,53,Distribution of electricity,3513,services_energy,False
+335,228,53,Production of electricity,3511,services_energy,False
+336,229,53,Transmission of electricity,3512,services_energy,False
+337,231,53,Trade of electricity,3514,services_energy,False
+338,420,12,Security and commodity contracts brokerage,6612,services_finance_insurance,False
+339,422,12,Risk and damage evaluation,6621,services_finance_insurance,False
+340,419,12,Administration of financial markets,6611,services_finance_insurance,False
+341,418,12,Pension funding,6530,services_finance_insurance,False
+342,417,12,Reinsurance,6520,services_finance_insurance,False
+343,416,12,Non-life insurance,6512,services_finance_insurance,False
+344,415,12,Life insurance,6511,services_finance_insurance,False
+345,424,12,Other activities auxiliary to insurance and pension funding,6629,services_finance_insurance,False
+346,425,12,Fund management activities,6630,services_finance_insurance,False
+347,421,12,"Other activities auxiliary to financial services, except insurance and pension funding",6619,services_finance_insurance,False
+348,423,12,Activities of insurance agents and brokers,6622,services_finance_insurance,False
+349,409,49,Other monetary intermediation,6419,services_finance_real_state,True
+350,429,49,Management of real estate on a fee or contract basis,6832,services_finance_real_state,True
+351,428,49,Real estate agencies,6831,services_finance_real_state,True
+352,413,49,Other credit granting,6492,services_finance_real_state,True
+353,411,49,"Trusts, funds and similar financial entities",6430,services_finance_real_state,True
+354,412,49,Financial leasing,6491,services_finance_real_state,True
+355,414,49,"Other financial service activities, except insurance and pension funding, n.e.c.",6499,services_finance_real_state,True
+356,410,49,Activities of holding companies,6420,services_finance_real_state,True
+357,362,42,Sea and coastal freight water transport,5020,services_freight_transport,False
+358,361,42,Sea and coastal passenger water transport,5010,services_freight_transport,False
+359,363,42,Inland passenger water transport,5030,services_freight_transport,False
+360,364,42,Inland freight water transport,5040,services_freight_transport,False
+361,512,8,Operation of arts facilities,9004,services_head_offices,True
+362,525,8,Activities of professional membership organisations,9412,services_head_offices,True
+363,524,8,Activities of business and employers membership organisations,9411,services_head_offices,True
+364,523,8,Other amusement and recreation activities,9329,services_head_offices,True
+365,522,8,Activities of amusement parks and theme parks,9321,services_head_offices,True
+366,527,8,Activities of religious organisations,9491,services_head_offices,True
+367,393,8,Motion picture projection activities,5914,services_head_offices,True
+368,528,8,Activities of political organisations,9492,services_head_offices,True
+369,529,8,Activities of other membership organisations n.e.c.,9499,services_head_offices,True
+370,517,8,Gambling and betting activities,9200,services_head_offices,True
+371,526,8,Activities of trade unions,9420,services_head_offices,True
+372,530,14,Repair of computers and peripheral equipment,9511,services_health,True
+373,431,14,"Accounting, bookkeeping and auditing activities; tax consultancy",6920,services_health,True
+374,538,14,Washing and (dry-)cleaning of textile and fur products,9601,services_health,True
+375,466,14,Private security activities,8010,services_health,True
+376,467,14,Security systems service activities,8020,services_health,True
+377,468,14,Investigation activities,8030,services_health,True
+378,301,14,"Wholesale of computers, computer peripheral equipment and software",4651,services_health,True
+379,498,14,General medical practice activities,8621,services_health,True
+380,541,14,Physical well-being activities,9604,services_health,True
+381,500,14,Dental practice activities,8623,services_health,True
+382,501,14,Other human health activities,8690,services_health,True
+383,520,14,Fitness facilities,9313,services_health,True
+384,497,14,Hospital activities,8610,services_health,True
+385,499,14,Specialist medical practice activities,8622,services_health,True
+386,542,14,Other personal service activities n.e.c.,9609,services_health,True
+387,461,55,Temporary employment agency activities,7820,services_human_resources,False
+388,462,55,Other human resources provision,7830,services_human_resources,False
+389,460,55,Activities of employment placement agencies,7810,services_human_resources,False
+390,434,31,Business and other management consultancy activities,7022,services_kibs,False
+391,432,31,Activities of head offices,7010,services_kibs,False
+392,433,31,Public relations and communication activities,7021,services_kibs,False
+393,441,31,Advertising agencies,7311,services_kibs,False
+394,442,31,Media representation,7312,services_kibs,False
+395,443,31,Market research and public opinion polling,7320,services_kibs,False
+396,375,17,Hotels and similar accommodation,5510,services_leisure,False
+397,376,17,Holiday and other short stay accommodation,5520,services_leisure,False
+398,377,17,"Camping grounds, recreational vehicle parks and trailer parks",5530,services_leisure,False
+399,378,17,Other accommodation,5590,services_leisure,False
+400,57,17,"Distilling, rectifying and blending of spirits",1101,services_leisure,False
+401,58,17,Manufacture of cider and other fruit wines,1103,services_leisure,False
+402,59,17,Manufacture of beer,1105,services_leisure,False
+403,365,6,Passenger air transport,5110,services_professional_public,True
+404,355,6,"Passenger rail transport, interurban",4910,services_professional_public,True
+405,366,6,Freight air transport,5121,services_professional_public,True
+406,206,6,Manufacture of other transport equipment n.e.c.,3099,services_professional_public,True
+407,456,6,Renting and leasing of office machinery and equipment (including computers),7733,services_professional_public,True
+408,485,6,Public order and safety activities,8424,services_professional_public,True
+409,484,6,Justice and judicial activities,8423,services_professional_public,True
+410,483,6,Regulation of and contribution to more efficient operation of businesses,8413,services_professional_public,True
+411,36,6,Support activities for other mining and quarrying,990,services_professional_public,True
+412,482,6,"Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",8412,services_professional_public,True
+413,481,6,General public administration activities,8411,services_professional_public,True
+414,459,6,"Leasing of intellectual property and similar products, except copyrighted works",7740,services_professional_public,True
+415,457,6,Renting and leasing of air transport equipment,7735,services_professional_public,True
+416,453,6,Renting and leasing of other personal and household goods,7729,services_professional_public,True
+417,451,6,Renting and leasing of recreational and sports goods,7721,services_professional_public,True
+418,430,6,Legal activities,6910,services_professional_public,True
+419,383,32,Book publishing,5811,services_publishing,False
+420,94,32,Reproduction of recorded media,1820,services_publishing,False
+421,388,32,Publishing of computer games,5821,services_publishing,False
+422,387,32,Other publishing activities,5819,services_publishing,False
+423,389,32,Other software publishing,5829,services_publishing,False
+424,385,32,Publishing of newspapers,5813,services_publishing,False
+425,386,32,Publishing of journals and periodicals,5814,services_publishing,False
+426,440,33,Research and experimental development on social sciences and humanities,7220,services_r_and_d,False
+427,439,33,Other research and experimental development on natural sciences and engineering,7219,services_r_and_d,False
+428,438,33,Research and experimental development on biotechnology,7211,services_r_and_d,False
+429,426,60,Buying and selling of own real estate,6810,services_real_estate,False
+430,427,60,Renting and operating of own or leased real estate,6820,services_real_estate,False
+431,243,60,Development of building projects,4110,services_real_estate,False
+432,225,52,Repair and maintenance of transport equipment n.e.c.,3317,services_repair_transport,False
+433,202,52,Manufacture of railway locomotives and rolling stock,3020,services_repair_transport,False
+434,502,63,Residential nursing care activities,8710,services_residential_social_work,False
+435,503,63,"Residential care activities for learning disabilities, mental health and substance abuse",8720,services_residential_social_work,False
+436,504,63,Residential care activities for the elderly and disabled,8730,services_residential_social_work,False
+437,505,63,Other residential care activities,8790,services_residential_social_work,False
+438,506,63,Social work activities without accommodation for the elderly and disabled,8810,services_residential_social_work,False
+439,507,63,Child day-care activities,8891,services_residential_social_work,False
+440,508,63,Other social work activities without accommodation n.e.c.,8899,services_residential_social_work,False
+441,346,11,"Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores",4776,services_retail_misc,True
+442,343,11,Dispensing chemist in specialised stores,4773,services_retail_misc,True
+443,382,11,Beverage serving activities,5630,services_retail_misc,True
+444,333,11,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores",4753,services_retail_misc,True
+445,332,11,"Retail sale of hardware, paints and glass in specialised stores",4752,services_retail_misc,True
+446,540,11,Funeral and related activities,9603,services_retail_misc,True
+447,327,11,Retail sale of automotive fuel in specialised stores,4730,services_retail_misc,True
+448,539,11,Hairdressing and other beauty treatment,9602,services_retail_misc,True
+449,127,11,"Manufacture of other articles of concrete, plaster and cement",2369,services_retail_misc,True
+450,28,11,Mining of hard coal,510,services_retail_misc,True
+451,319,11,Other retail sale in non-specialised stores,4719,services_retail_misc,True
+452,321,11,Retail sale of meat and meat products in specialised stores,4722,services_retail_misc,True
+453,318,11,"Retail sale in non-specialised stores with food, beverages or tobacco predominating",4711,services_retail_misc,True
+454,47,11,Manufacture of bread; manufacture of fresh pastry goods and cakes,1071,services_retail_misc,True
+455,323,11,"Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores",4724,services_retail_misc,True
+456,288,11,Wholesale of sugar and chocolate and sugar confectionery,4636,services_retail_misc,True
+457,128,11,"Cutting, shaping and finishing of stone",2370,services_retail_misc,True
+458,234,15,"Water collection, treatment and supply",3600,services_technical_engineering,False
+459,436,15,Engineering activities and related technical consultancy,7112,services_technical_engineering,False
+460,437,15,Technical testing and analysis,7120,services_technical_engineering,False
+461,248,15,Construction of utility projects for fluids,4221,services_technical_engineering,False
+462,398,44,Wireless telecommunications activities,6120,services_telecommunications,False
+463,399,44,Satellite telecommunications activities,6130,services_telecommunications,False
+464,397,44,Wired telecommunications activities,6110,services_telecommunications,False
+465,400,44,Other telecommunications activities,6190,services_telecommunications,False
+466,367,36,Warehousing and storage,5210,services_transport_storage,False
+467,368,36,Service activities incidental to land transportation,5221,services_transport_storage,False
+468,369,36,Service activities incidental to water transportation,5222,services_transport_storage,False
+469,371,36,Cargo handling,5224,services_transport_storage,False
+470,372,36,Other transportation support activities,5229,services_transport_storage,False
+471,370,36,Service activities incidental to air transportation,5223,services_transport_storage,False
+472,463,35,Travel agency activities,7911,services_travelling_tourism,False
+473,465,35,Other reservation service and related activities,7990,services_travelling_tourism,False
+474,464,35,Tour operator activities,7912,services_travelling_tourism,False
+475,356,50,Urban and suburban passenger land transport,4931,services_urban_transport,False
+476,357,50,Taxi operation,4932,services_urban_transport,False
+477,358,50,Other passenger land transport n.e.c.,4939,services_urban_transport,False
+478,359,50,Freight transport by road,4941,services_urban_transport,False
+479,360,50,Removal services,4942,services_urban_transport,False
+480,242,40,Remediation activities and other waste management services,3900,services_waste_recycling,False
+481,236,40,Collection of non-hazardous waste,3811,services_waste_recycling,False
+482,235,40,Sewerage,3700,services_waste_recycling,False
+483,240,40,Dismantling of wrecks,3831,services_waste_recycling,False
+484,237,40,Collection of hazardous waste,3812,services_waste_recycling,False
+485,316,40,Wholesale of waste and scrap,4677,services_waste_recycling,False
+486,241,40,Recovery of sorted materials,3832,services_waste_recycling,False
+487,239,40,Treatment and disposal of hazardous waste,3822,services_waste_recycling,False
+488,238,40,Treatment and disposal of non-hazardous waste,3821,services_waste_recycling,False
+489,479,1,Packaging activities,8292,services_repair_machinery,False
+490,330,1,Retail sale of audio and video equipment in specialised stores,4743,services_repair_machinery,False
+491,315,1,Wholesale of other intermediate products,4676,services_repair_machinery,False
+492,312,1,"Wholesale of wood, construction materials and sanitary equipment",4673,services_repair_machinery,False
+493,311,1,Wholesale of metals and metal ores,4672,services_repair_machinery,False
+494,309,1,Wholesale of other machinery and equipment,4669,services_repair_machinery,False
+495,304,1,Wholesale of machine tools,4662,services_repair_machinery,False
+496,302,1,Wholesale of electronic and telecommunications equipment and parts,4652,services_repair_machinery,False
+497,305,1,"Wholesale of mining, construction and civil engineering machinery",4663,services_repair_machinery,False
+498,272,1,"Agents involved in the sale of fuels, ores, metals and industrial chemicals",4612,services_repair_machinery,False
+499,227,1,Installation of industrial machinery and equipment,3320,services_repair_machinery,False
+500,374,1,Other postal and courier activities,5320,services_repair_machinery,False
+501,226,1,Repair of other equipment,3319,services_repair_machinery,False
+502,222,1,Repair of electrical equipment,3314,services_repair_machinery,False
+503,531,1,Repair of communication equipment,9512,services_repair_machinery,False
+504,532,1,Repair of consumer electronics,9521,services_repair_machinery,False
+505,533,1,Repair of household appliances and home and garden equipment,9522,services_repair_machinery,False
+506,373,1,Postal activities under universal service obligation,5310,services_repair_machinery,False
+507,537,1,Repair of other personal and household goods,9529,services_repair_machinery,False
+508,274,1,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft",4614,services_repair_machinery,False
+509,277,19,"Agents involved in the sale of food, beverages and tobacco",4617,services_retail_misc,True
+510,278,19,Agents specialised in the sale of other particular products,4618,services_retail_misc,True
+511,279,19,Agents involved in the sale of a variety of goods,4619,services_retail_misc,True
+512,281,19,Wholesale of flowers and plants,4622,services_retail_misc,True
+513,275,19,"Agents involved in the sale of furniture, household goods, hardware and ironmongery",4615,services_retail_misc,True
+514,317,19,Non-specialised wholesale trade,4690,services_retail_misc,True
+515,283,19,Wholesale of fruit and vegetables,4631,services_retail_misc,True
+516,306,19,Wholesale of machinery for the textile industry and of sewing and knitting machines,4664,services_retail_misc,True
+517,284,19,Wholesale of meat and meat products,4632,services_retail_misc,True
+518,286,19,Wholesale of beverages,4634,services_retail_misc,True
+519,298,19,"Wholesale of furniture, carpets and lighting equipment",4647,services_retail_misc,True
+520,289,19,"Wholesale of coffee, tea, cocoa and spices",4637,services_retail_misc,True
+521,291,19,"Non-specialised wholesale of food, beverages and tobacco",4639,services_retail_misc,True
+522,292,19,Wholesale of textiles,4641,services_retail_misc,True
+523,293,19,Wholesale of clothing and footwear,4642,services_retail_misc,True
+524,294,19,Wholesale of electrical household appliances,4643,services_retail_misc,True
+525,313,19,"Wholesale of hardware, plumbing and heating equipment and supplies",4674,services_retail_misc,True
+526,296,19,Wholesale of perfume and cosmetics,4645,services_retail_misc,True
+527,297,19,Wholesale of pharmaceutical goods,4646,services_retail_misc,True
+528,300,19,Wholesale of other household goods,4649,services_retail_misc,True
+529,324,19,Retail sale of beverages in specialised stores,4725,services_retail_misc,True
+530,299,19,Wholesale of watches and jewellery,4648,services_retail_misc,True
+531,287,19,Wholesale of tobacco products,4635,services_retail_misc,True
+532,325,19,Retail sale of tobacco products in specialised stores,4726,services_retail_misc,True
+533,308,19,Wholesale of other office machinery and equipment,4666,services_retail_misc,True
+534,328,19,"Retail sale of computers, peripheral units and software in specialised stores",4741,services_retail_misc,True
+535,329,19,Retail sale of telecommunications equipment in specialised stores,4742,services_retail_misc,True
+536,331,19,Retail sale of textiles in specialised stores,4751,services_retail_misc,True
+537,452,19,Renting of video tapes and disks,7722,services_retail_misc,True
+538,353,19,Retail sale via mail order houses or via Internet,4791,services_retail_misc,True
+539,334,19,Retail sale of electrical household appliances in specialised stores,4754,services_retail_misc,True
+540,345,19,Retail sale of cosmetic and toilet articles in specialised stores,4775,services_retail_misc,True
+541,338,19,Retail sale of music and video recordings in specialised stores,4763,services_retail_misc,True
+542,307,19,Wholesale of office furniture,4665,services_retail_misc,True
